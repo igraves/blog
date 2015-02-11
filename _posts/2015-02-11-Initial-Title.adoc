@@ -1,0 +1,3 @@
+= Initial Title
+
+All, I've decided to ressurect the blog in the form of a Github page.  We'll see how this bad boy works!
