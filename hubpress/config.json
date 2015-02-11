@@ -2,9 +2,10 @@
   "meta": {
     "username": "igraves",
     "repositoryName": "igraves.github.io",
-    "branch": "master"
+    "branch": "gh-pages"
   },
   "theme": {
     "name": "Casper"
   }
 }
+
